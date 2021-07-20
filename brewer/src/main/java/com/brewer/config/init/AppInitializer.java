@@ -1,11 +1,11 @@
-package com.algaworks.brewer.config.init;
+package com.brewer.config.init;
 
 import javax.servlet.Filter;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-import com.algaworks.brewer.config.WebConfig;
+import com.brewer.config.WebConfig;
 
 public class AppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 

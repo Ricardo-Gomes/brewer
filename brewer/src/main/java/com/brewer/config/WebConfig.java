@@ -1,4 +1,4 @@
-package com.algaworks.brewer.config;
+package com.brewer.config;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
@@ -17,7 +17,7 @@ import org.thymeleaf.spring4.view.ThymeleafViewResolver;
 import org.thymeleaf.templatemode.TemplateMode;
 import org.thymeleaf.templateresolver.ITemplateResolver;
 
-import com.algaworks.brewer.controller.CervejasController;
+import com.brewer.controller.CervejasController;
 
 import nz.net.ultraq.thymeleaf.LayoutDialect;
 
